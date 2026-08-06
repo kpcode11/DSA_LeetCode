@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/kpcode11/DSA_LeetCode/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/kpcode11/DSA_LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
