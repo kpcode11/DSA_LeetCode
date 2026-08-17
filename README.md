@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kpcode11/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kpcode11/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/kpcode11/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kpcode11/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kpcode11/DSA_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kpcode11/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kpcode11/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kpcode11/DSA_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kpcode11/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
