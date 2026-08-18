@@ -10,7 +10,7 @@ public class Solution extends VersionControl {
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (isBadVersion(mid) == true) {
+            if (isBadVersion(mid)) {
                 ans = Math.min(ans, mid);
                 high = mid - 1;
             } else {
