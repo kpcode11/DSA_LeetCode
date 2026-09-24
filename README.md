@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kpcode11/DSA_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kpcode11/DSA_LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kpcode11/DSA_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kpcode11/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kpcode11/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kpcode11/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kpcode11/DSA_LeetCode/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kpcode11/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
